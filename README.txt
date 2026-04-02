@@ -1,10 +1,10 @@
 
 conda activate RTMscore_n
 
-# prepare input
+#prepare input
 bash run_all_pos.bash
 
-# prediction
+#prediction
 bash run_all_predict.bash
-# sort socre
+#sort socre
 bash score_sort.bash
